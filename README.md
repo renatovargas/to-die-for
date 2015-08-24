@@ -13,4 +13,4 @@ This repository contains:
 * [An "R" script](https://github.com/renatovargas/to-die-for/blob/master/code/00_reshapeFD.R) to aggregate World Input-Output Database matrices from 1995-2009 recursively to match classification structure of external information on human health. 
 * Other ["R" scripts](https://github.com/renatovargas/to-die-for/tree/master/code) with Input-Output models adapted to particular exercises (1 through 3) with different health measures.
 * ["LaTeX" documents and other](https://github.com/renatovargas/to-die-for/tree/master/latex) documentation. 
-* If you wish to replicate, World Input-Output Database data is freely available at http://www.wiod.org. Just match the file structure as evident in the R scripts.
+* If you wish to replicate, World Input-Output Database data is freely available at http://www.wiod.org. Just save matrices to comma separated values (.csv) and match the file structure as evident in the R scripts.
