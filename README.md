@@ -6,7 +6,7 @@ Using an extended input-output model of 41 regions, this study evaluates impacts
 
 You can read the [working paper here](https://github.com/renatovargas/to-die-for/blob/master/latex/thesis.pdf).
 
-## Repository
+## About this repository
 
 This repository contains:
 
